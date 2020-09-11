@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Travis E. Ross"
 description              : &description "PhD from the University of Utah, currently a postdoctoral fellow at Yale University."
 url                      : https://traviseross.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "traviseross.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://github.com/traviseross/traviseross.github.io/blob/master/" # the subpath of your site, e.g. "/blog"
 repository               : "traviseross.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
