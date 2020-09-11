@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Travis E. Ross, PhD | Historian of Knowledge &amp; Information Systems"
+title                    : "Travis E. Ross, PhD / Historian of Knowledge &amp; Information Systems"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
