@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Travis E. Ross, PhD / Historian, Informatician"
+title                    : "Travis E. Ross, PhD / Historian"
 title_separator          : "-"
 name                     : &name "Travis E. Ross"
 description              : &description "PhD from the University of Utah, currently a postdoctoral fellow at Yale University."
