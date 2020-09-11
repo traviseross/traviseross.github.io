@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Travis E. Ross, PhD"
   avatar           : "Ross_Headshot.jpg"
-  bio              : "Historian of knowledge and information systems"
+  bio              : "Historian, Informatician"
   location         : "Southington, CT"
-  employer         : "Yale Center for Medical Informatics / Westhaven VA Medical Center"
+  employer         : "Yale Center for Medical Informatics"
   pubmed           : #""
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "travis.ross@yale.edu"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
