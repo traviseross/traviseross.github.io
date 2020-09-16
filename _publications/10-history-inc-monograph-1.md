@@ -1,12 +1,12 @@
 ---
 title: "History, Inc."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/210-history-inc-01
 excerpt: 'A monograph based on my award-winning dissertation, which examined the for-profit company that created UC Berkeley's Bancroft Library between 1870 and 1890.'
 date: 2020-01-01
 venue: 'Intended for University of Chicago Press'
 paperurl: ''
-citation: ''
+citation: 'Ross, Travis. E. History, Inc.'
 ---
 Between roughly 1870 and 1890, the California bookseller Hubert Howe Bancroft used the considerable resources available to him in his Pacific printing and publishing empire to marshal a transnational network of contributors to create his proprietary library and to write the 39-volume historical series *The Works of Hubert Howe Bancroft*. Rooted in the interdisciplinary studies of knowledge, information, print culture, and business history, my monograph uses Bancroft's company to investigate the moment of rapid innovation and experimentation in the history of knowledge.
 
