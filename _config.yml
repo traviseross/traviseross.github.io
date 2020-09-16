@@ -84,7 +84,7 @@ author:
   avatar           : "Ross_Headshot.jpg"
   bio              : "Historian, Informatician"
   location         : "Southington, CT"
-  employer         : "<a href="https://medicine.yale.edu/ycmi" target="_blank">Yale Center for Medical Informatics</a>"
+  employer         : "<a href=&quot;https://medicine.yale.edu/ycmi&quot; target=&quot;_blank&quot;>Yale Center for Medical Informatics</a>"
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=rQeRLjcAAAAJ&hl=en"
   email            : "travis.ross@yale.edu"
