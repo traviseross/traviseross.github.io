@@ -9,6 +9,8 @@ talkmap_link: true
 <!--<p style="text-decoration:underline;"><a href="/talkmap.html">Map View</a></p>-->
 <iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
 {% endif %}
+**Upcoming**
 {% for post in site.talks reversed %}
+  {%while site.talks.post.date >= today}
   {% include archive-single-talk.html %}
 {% endfor %}
