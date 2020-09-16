@@ -3,8 +3,9 @@ permalink: /research/
 title: "Research"
 author_profile: true
 redirect_from: 
-  - /Markdown/
-  -/md/
+  - /research.html
+  - /reserach.htm
+  - /Research
 ---
 
 <table>
