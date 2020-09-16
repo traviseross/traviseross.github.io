@@ -11,13 +11,10 @@ talkmap_link: true
 {% endif %}
 **Upcoming**
 {% for post in site.talks reversed %}
-  {% while talk.date >= site.time %}
+  {% if post.date > site.time %}
     {% include archive-single-talk.html %}
-  {% end while %}
+  {% else %}
+    **Past Appearances**
+    {% include archive-single-talk.html %}
+  {% end if %}
 {% end for %}
-**Past Appearances**
-{% for post in site.talks reversed %}
-  {% while talk.date >= site.time %}
-    {% include archive-sing-talk.html %}
-  {% end while %}
-{% endfor %}
