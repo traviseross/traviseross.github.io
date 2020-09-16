@@ -5,8 +5,8 @@ permalink: /publication/2020-09-15-monograph-01
 excerpt: 'I am working on a monograph based on my award-winning dissertation.'
 date: 2024-07-01
 venue: 'For submission to the University of Chicago Press'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
