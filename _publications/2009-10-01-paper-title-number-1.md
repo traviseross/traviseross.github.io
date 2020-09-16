@@ -1,7 +1,7 @@
 ---
 title: "History, Inc"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-09-15-monograph-01
 excerpt: 'I am working on a monograph based on my award-winning dissertation.'
 date: 2024-07-01
 venue: 'For submission to the University of Chicago Press'
