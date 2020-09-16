@@ -15,7 +15,7 @@ url                      : "https://www.traviseross.com" # the base hostname & p
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "traviseross.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -86,7 +86,7 @@ author:
   location         : "Southington, CT"
   employer         : "Yale Center for Medical Informatics"
   pubmed           : #""
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=rQeRLjcAAAAJ&hl=en"
   email            : "travis.ross@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
