@@ -9,9 +9,10 @@ talkmap_link: true
 <!--<p style="text-decoration:underline;"><a href="/talkmap.html">Map View</a></p>-->
 <iframe src="/talkmap/map.html" height="650" width="850" style="border:none;"></iframe>
 {% endif %}
-**Upcoming**
+{% assign today_date = 'now' | date: "%Y-%m-%d" %}
+**>Upcoming**
 {% for post in site.talks reversed %}
-  {% if post.date > site.time %}
+  {% if post.date > today_date %}
     {% include archive-single-talk.html %}
   {% else %}
     **Past Appearances**
