@@ -3,7 +3,7 @@ title: "History, Inc."
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'A monograph based on my award-winning dissertation, which examined the for-profit company that created UC Berkeley's Bancroft Library between 1870 and 1890.'
-date: 
+date: 2020-01-01
 venue: 'Intended for University of Chicago Press'
 paperurl: ''
 citation: ''
