@@ -3,23 +3,20 @@ main:
   #- title: "Publications"
   #  url: /publications/
 
-  - title: "Research"
-    url: /research/
+  - title: "Talks"
+    url: /talks/    
 
-    - title: "Public History"
-    url: /public-history/
-        
-    - title: "Teaching"
+  - title: "Teaching"
     url: /teaching/    
     
+  - title: "Public History"
+    url: /public-history/
+        
   #- title: "Blog Posts"
   #  url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-    
-  - title: "Public Appearances"
-    url: /talks/    
-
-
+  - title: "Research"
+    url: /research/
