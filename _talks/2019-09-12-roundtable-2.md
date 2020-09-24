@@ -5,5 +5,5 @@ type: "Roundtable"
 permalink: /talks/2019-09-12-roundtable-2
 venue: "Harvard University"
 date: 2019-09-12
-location: "Cambridge, MA"
+location: "Cambridge, Massachusetts, USA"
 ---
