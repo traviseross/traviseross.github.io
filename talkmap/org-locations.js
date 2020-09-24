@@ -26,8 +26,8 @@ var addressPoints = [
   ],
   [
     "Berkeley, CA",
-    44.3669375,
-    -80.7272504
+    37.871733,
+    -122.255862
   ],
   [
     "Leiden, NL",
