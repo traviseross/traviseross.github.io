@@ -1,33 +1,33 @@
 var addressPoints = [
   [
-    "Denver, CO",
+    "Denver, Colorado, USA",
     39.7392364,
     -104.9848623
   ],
   [
-    "Claremont, CA",
-    45.6782409,
-    -63.9761354
+    "Claremont, California, USA",
+    34.0966764,
+    -117.7197785
   ],
   [
-    "New Haven, CT",
+    "New Haven, Connecticut, USA",
     41.3082138,
     -72.9250518
   ],
   [
-    "Tucson, AZ",
+    "Tucson, Arizona, USA",
     32.2228765,
     -110.9748477
   ],
   [
-    "Chicago, IL",
+    "Chicago, Illinois, USA",
     41.8755616,
     -87.6244212
   ],
   [
-    "Berkeley, CA",
-    37.871733,
-    -122.255862
+    "Berkeley, California, USA",
+    37.8708393,
+    -122.2728639
   ],
   [
     "Leiden, NL",
@@ -40,17 +40,17 @@ var addressPoints = [
     -73.6103642
   ],
   [
-    "Victoria, BC",
+    "Victoria, BC, Canada",
     48.4283182,
     -123.3649533
   ],
   [
-    "Cambridge, MA",
+    "Cambridge, Massachusetts, USA",
     42.3750997,
     -71.1056157
   ],
   [
-    "Washington, DC",
+    "Washington, DC, USA",
     38.8949855,
     -77.0365708
   ],
@@ -65,7 +65,7 @@ var addressPoints = [
     18.0710935
   ],
   [
-    "New York City, NY",
+    "New York City, New York, USA",
     40.7127281,
     -74.0060152
   ],
@@ -80,8 +80,13 @@ var addressPoints = [
     -111.8867975
   ],
   [
-    "Atlanta, GA",
+    "Atlanta, Georgia, USA",
     33.7490987,
     -84.3901849
+  ],
+  [
+    "Washington, DC",
+    38.8949855,
+    -77.0365708
   ]
 ];
