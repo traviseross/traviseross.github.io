@@ -11,8 +11,8 @@ var addressPoints = [
   ],
   [
     "New Haven, Connecticut, USA",
-    41.3082138,
-    -72.9250518
+    41.298434349999994,
+    -72.93102342707913
   ],
   [
     "Tucson, Arizona, USA",
@@ -26,8 +26,8 @@ var addressPoints = [
   ],
   [
     "Berkeley, California, USA",
-    37.8708393,
-    -122.2728639
+    37.8753497,
+    -122.23963364918777
   ],
   [
     "Leiden, NL",
@@ -36,8 +36,13 @@ var addressPoints = [
   ],
   [
     "Montreal, Quebec",
-    45.4972159,
-    -73.6103642
+    45.5031824,
+    -73.5698065
+  ],
+  [
+    "Southington, CT",
+    41.6005435,
+    -72.8782941
   ],
   [
     "Victoria, BC, Canada",
@@ -45,14 +50,24 @@ var addressPoints = [
     -123.3649533
   ],
   [
+    "University of Bayreuth",
+    49.9270796,
+    11.587226615128671
+  ],
+  [
     "Cambridge, Massachusetts, USA",
     42.3750997,
     -71.1056157
   ],
   [
+    "Los Angeles, California, USA",
+    34.0536909,
+    -118.242766
+  ],
+  [
     "Washington, DC, USA",
-    38.8949855,
-    -77.0365708
+    38.8949924,
+    -77.0365581
   ],
   [
     "Seattle, WA",
@@ -81,12 +96,12 @@ var addressPoints = [
   ],
   [
     "Atlanta, Georgia, USA",
-    33.7490987,
-    -84.3901849
+    33.7489924,
+    -84.3902644
   ],
   [
     "Washington, DC",
-    38.8949855,
-    -77.0365708
+    38.8949924,
+    -77.0365581
   ]
 ];
