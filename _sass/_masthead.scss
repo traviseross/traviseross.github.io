@@ -30,6 +30,24 @@
     }
   }
 }
+  .dropdown-button {
+    display: none;
+  }
+
+  .dropdown-menu {
+    display: none;
+  }
+
+  @media (max-width: 768px) {
+    .dropdown-button {
+      display: block;
+    }
+
+    .dropdown-button:active + .dropdown-menu,
+    .dropdown-button:focus + .dropdown-menu {
+      display: block;
+    }
+  }
 
 .masthead__menu {
 
