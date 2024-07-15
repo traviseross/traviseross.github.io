@@ -3,23 +3,23 @@ main:
   #- title: "Publications"
   #  url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Public History"
-    url: /public-history/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
   - title: "CV"
     url: /cv/
-    
+
   - title: "Research"
     url: /research/
 
-  - title: "Liberal Arts & AI"
-    url: /la_ai/
+  - title: "Public History"
+    url: /public-history/
+
+  - title: "Teaching"
+    url: /teaching/    
+            
+  - title: "Blog"
+    url: /synthetic-reasoning/    
+
+  - title: "Talks"
+    url: /talks/    
+
+#  - title: "Liberal Arts & AI"
+#    url: /la_ai/
