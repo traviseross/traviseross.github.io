@@ -6,21 +6,21 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Synthetic Reasoning"
+    url: /synthetic-reasoning/    
+
   - title: "Research"
     url: /research/
 
   - title: "Public History"
     url: /public-history/
 
-- title: "Publications"
-    url: /publications/
+#- title: "Publications"
+#    url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
             
-  - title: "Blog"
-    url: /synthetic-reasoning/    
-
   - title: "Talks"
     url: /talks/    
 
