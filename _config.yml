@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "Ross_Headshot.jpg"
   name             : "Travis E. Ross, PhD"
-  pronouns         : "he/his"  
-  bio              : "Historian / Informaticist / Professor"
-  location         : "Oregon"
+  pronouns         : #"he/him"  
+  bio              : "Historian of knowledge"
+  location         : #"Oregon"
   employer         : "George Fox University"
   uri              : # URL
   email            : "tross@georgefox.edu" 
