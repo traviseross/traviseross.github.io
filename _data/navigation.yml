@@ -24,7 +24,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-    
+  - title: "Schedule"
+    url: /schedule/ 
 
 #  - title: "Liberal Arts & AI"
 #    url: /la_ai/
