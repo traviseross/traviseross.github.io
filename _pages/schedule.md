@@ -1,5 +1,5 @@
 ---
-permalink: /Schedule/
+permalink: /schedule/
 title: "Schedule a Meeting"
 excerpt: "Let's find a time to talk."
 author_profile: true
